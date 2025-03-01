@@ -6,7 +6,8 @@
 
 - 💬 Skills based in... Unity game development, Blender, UI/UX Designing, Raspberry Pi(Microcontroller), MicroPython, Circuitpython, Android Studio and more...
 
-- 📫 How to reach me: Instagram: thilxkesh__ Email: thilakesh2007@gmail.com
+- 📫 How to reach me: Instagram: thilxkesh__
+-  Email: thilakesh2007@gmail.com
 
 - 😄 Pronouns: He/Him
 
