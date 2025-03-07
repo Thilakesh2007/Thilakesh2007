@@ -1,6 +1,6 @@
 - 💗 Hi, I am @thilakesh2007 
 
-- 🔭 I’m currently working on Android studio 
+- 🔭 I’m currently working on Android studio and Unity Game Development 
 
 - 🌱 I’m currently learning: Web Development and software development for Android 
 
