@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning: Web Development and software development for Android 
 
-- 💬 Skills based in... Unity game development, Blender, UI/UX Designing, Raspberry Pi(Microcontroller), MicroPython, Circuitpython, Android Studio and more...
+- 💬 Skills based in... Unity game development, Blender, Raspberry Pi(Microcontroller), MicroPython, Circuitpython, Android Studio and more...
 
 - 📫 How to reach me: Instagram: thilxkesh__
 -  Email: thilakesh2007@gmail.com
